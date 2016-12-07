@@ -1,0 +1,43 @@
+.wrapper_blok {
+    width: 400px;
+    margin: 0 auto;
+    height: 500px;
+    border: 1px solid red; 
+}
+
+.wrapper_blok h1{
+    text-align: center;
+}
+.wrapper_blok p{
+    text-align: center;
+}
+.wrapper_blok input {
+    height: 20px;
+    margin-right: 10px;
+    margin-left: 20px;
+}
+.formApp {
+    margin-left: 30px; 
+}
+
+.btnAdd {
+    background: red;
+    width: 100px;
+    height: 25px;
+    color: #fff;
+    
+}
+
+.wrapper_blok li {
+    list-style-type: decimal;
+
+}
+
+.btnAllDelit {
+    margin-left: 21px;
+    margin-top: 10px;
+}
+
+.none {
+        color: red;
+}
